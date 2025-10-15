@@ -1,18 +1,16 @@
-# 🚀 Cyber Portfolio - Developer Portfolio Website
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
-**Created by:** [serozr](https://github.com/serozr)
-
+# 🚀 Cyber cyber-portfolio - Developer cyber-portfolio Website
 ---
 <div align="center">
   <img alt="Demo" src="src\assets\images\mockup.png" />
 </div>
-
+<center>
+  
+[![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/serozr/cyber-portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/serozr/cyber-portfolio?color=red&logo=github&style=for-the-badge)
+</center>
 ---
 
 ## ✨ Features
@@ -39,7 +37,7 @@
 - **Experience** - Professional journey timeline
 - **Education** - Academic background timeline
 - **Certifications** - Achievements and awards showcase
-- **Projects** - Portfolio of featured work
+- **Projects** - cyber-portfolio of featured work
 - **Blog** - Latest articles and posts
 - **Contact** - Interactive contact form and social links
 
@@ -56,8 +54,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/serozr/cyber-portfolio.git
-   cd cyber-portfolio
+   git clone https://github.com/serozr/cyber-cyber-portfolio.git
+   cd cyber-cyber-portfolio
    ```
 
 2. **Open in browser**
@@ -97,7 +95,7 @@
 ## 📁 Project Structure
 
 ```
-cyber-portfolio/
+cyber-cyber-portfolio/
 │
 ├── index.html            # Main HTML entry point
 ├── LICENSE               # MIT License
@@ -247,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@serozr](https://github.com/serozr)
 - Twitter: [@serozr](https://twitter.com/serodxr)
-- Portfolio: [serozr.me](https://www.serozr.me/)
+- cyber-portfolio: [serozr.me](https://www.serozr.me/)
 ---
 
 ## 🙏 Acknowledgments
@@ -263,7 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you like this project, please give it a ⭐️ on GitHub!
 
-For questions or support, please open an issue or contact me through the portfolio website.
+For questions or support, please open an issue or contact me through the cyber-portfolio website.
 
 ---
 
