@@ -10,7 +10,9 @@ A modern, responsive developer portfolio website with a cyberpunk-inspired termi
 **Created by:** [serozr](https://github.com/serozr)
 
 ---
-![](src\assets\images\mockup.png)
+<div align="center">
+  <img alt="Demo" src="src\assets\images\mockup.png" />
+</div>
 
 ---
 
