@@ -12,7 +12,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/serozr/cyber-portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
----
+
 
 ## ✨ Features
 
