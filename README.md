@@ -247,9 +247,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **serozr**
 
 - GitHub: [@serozr](https://github.com/serozr)
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- Twitter: [@serozr](https://twitter.com/serozr)
+- Portfolio: [Your Portfolio URL](https://www.serozr.me/)
+- Twitter: [@serozr](https://twitter.com/serodxr)
 
 ---
 
