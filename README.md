@@ -100,32 +100,20 @@ A modern, responsive developer portfolio website with a cyberpunk-inspired termi
 ```
 cyber-portfolio/
 │
-├── index.html              # Main HTML file
-├── README.md              # Project documentation
-├── LICENSE                # MIT License
+├── index.html            # Main HTML entry point
+├── LICENSE               # MIT License
+├── README.md             # Project documentation
 │
-├── src/                   # Source files
-│   ├── css/              # Stylesheets
-│   │   ├── main.css      # Main stylesheet with all styling
-│   │   └── animations.css # Custom animation keyframes
-│   │
-│   ├── js/               # JavaScript files
-│   │   └── main.js       # JavaScript for interactions and animations
-│   │
-│   └── assets/           # Static assets
-│       └── images/       # Image files
-│
-└── screenshots/          # Screenshots for README
-    ├── boot-screen.png
-    ├── hero-section.png
-    ├── about-section.png
-    ├── skills-section.png
-    ├── timeline.png
-    ├── certifications.png
-    ├── projects.png
-    ├── blog.png
-    ├── contact.png
-    └── mobile-view.png
+└── src/                  # Source files
+  ├── assets/           # Static assets
+  │   └── images/       # Image files
+  │
+  ├── css/              # Stylesheets
+  │   ├── animations.css # Custom animation keyframes
+  │   └── main.css       # Main stylesheet
+  │
+  └── js/               # JavaScript files
+    └── main.js        # Interactions and animations
 ```
 
 ---
