@@ -10,58 +10,7 @@ A modern, responsive developer portfolio website with a cyberpunk-inspired termi
 **Created by:** [serozr](https://github.com/serozr)
 
 ---
-
-## 📸 Screenshots
-
-### Boot Screen
-*Terminal-style boot sequence animation that greets visitors*
-
-![Boot Screen](screenshots/boot-screen.png)
-
-### Hero Section
-*Eye-catching hero section with terminal window and gradient effects*
-
-![Hero Section](screenshots/hero-section.png)
-
-### About Me
-*Interactive code window displaying developer information*
-
-![About Section](screenshots/about-section.png)
-
-### Skills & Progress Bars
-*Animated skill bars with smooth fill animations*
-
-![Skills Section](screenshots/skills-section.png)
-
-### Timeline (Experience & Education)
-*Elegant timeline design for showcasing career progression*
-
-![Timeline](screenshots/timeline.png)
-
-### Certifications & Awards
-*Beautifully designed certification cards with hover effects*
-
-![Certifications](screenshots/certifications.png)
-
-### Projects Showcase
-*Featured projects with interactive hover states*
-
-![Projects](screenshots/projects.png)
-
-### Blog Section
-*Latest blog posts with tags and clean card design*
-
-![Blog](screenshots/blog.png)
-
-### Contact Form
-*Terminal-styled contact form with smooth animations*
-
-![Contact](screenshots/contact.png)
-
-### Mobile Responsive
-*Fully responsive design for all device sizes*
-
-![Mobile View](screenshots/mobile-view.png)
+![Boot Screen](screenshots\flat-devices-mockup.png)
 
 ---
 
