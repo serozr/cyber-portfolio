@@ -5,7 +5,7 @@
 ### Modern Developer Portfolio with Terminal-Inspired Design
 
 <a href="https://serozr.me/cyber-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Click_to_Check_Live-00D9FF?style=for-the-badge&logoColor=white" alt="Live Demo" height="35">
+  <img src="https://img.shields.io/badge/🌐_Click_to_Check_Live-00CC00?style=for-the-badge&logoColor=black" alt="Live Demo" height="35">
 </a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
