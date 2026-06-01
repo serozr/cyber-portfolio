@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-Give it a ⭐️ if you like this project! For issues or questions, open an issue on GitHub.
+Give it a ⭐️ if you like this project For issues or questions, open an issue on GitHub.
 
 ---
 
